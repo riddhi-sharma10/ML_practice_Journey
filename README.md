@@ -1,5 +1,8 @@
 Machine Learning - CampusX Practice Journey
 
+![1_1Mz7cDDu5KG719ViqNyN-A@2x](https://github.com/user-attachments/assets/55971ac8-65d7-49a3-aa42-4ab5c4e9ffba)
+
+
 This repository contains my personal implementations, notes, and practice work from the CampusX - 100 Days of Machine Learning series.
 
 The purpose of this repo is to strengthen my ML foundations through hands-on coding, experimentation, and applying every concept on real datasets. Every notebook here has been written and explored by me while learning, revising, and extending the concepts taught in the series.
