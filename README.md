@@ -1,7 +1,6 @@
 Machine Learning - CampusX Practice Journey
 
-![1_1Mz7cDDu5KG719ViqNyN-A@2x](https://github.com/user-attachments/assets/55971ac8-65d7-49a3-aa42-4ab5c4e9ffba)
-
+![1_1Mz7cDDu5KG719ViqNyN-A@2x](https://github.com/user-attachments/assets/4ed7c962-a9eb-465c-b041-d2952f2e834e)
 
 This repository contains my personal implementations, notes, and practice work from the CampusX - 100 Days of Machine Learning series.
 
